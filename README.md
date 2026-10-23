@@ -1,4 +1,6 @@
 # Project-Init
+## Depende de ter _GIT_ e _Python >= 3.8_ instalados
+
 Script para criação de pastas de projeto para múltiplas linguagens de programação.
 
 Para instalar, execute `python -m pip install .` dentro da pasta raíz (onde o 'pyproject.toml' está localizado)
